@@ -1,7 +1,7 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import NavbarComponent from "./components/NavbarComponent";
-import Home from "./pages/home";
-import ProjectDetail from "./pages/projectdetail";
+import Home from "./pages/Home";
+import ProjectDetail from "./pages/ProjectDetail";
 import Projects from "./pages/projects";
 import Certificates from "./pages/certificates"; ///Users/yogi/Documents/imam ahmad aziz prayogi/project/portofolio-v3/src/pages/Certificates.jsx
 import FooterComponent from "./components/FooterComponent"; 
