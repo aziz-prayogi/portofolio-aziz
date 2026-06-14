@@ -3,7 +3,7 @@ import NavbarComponent from "./components/NavbarComponent";
 import Home from "./pages/Home";
 import ProjectDetail from "./pages/ProjectDetail";
 import Projects from "./pages/Projects";
-import Certificates from "./pages/Certificates"; // 👈 1. Import halamannya
+import Certificates from "./pages/Certificates";
 import FooterComponent from "./components/FooterComponent"; 
 
 function App() {
