@@ -3,7 +3,7 @@ import NavbarComponent from "./components/NavbarComponent";
 import Home from "./pages/Home";
 import ProjectDetail from "./pages/ProjectDetail";
 import Projects from "./pages/Projects";
-import Certificates from "./pages/Certificates";
+import Certificates from "./pages/Certificates"; ///Users/yogi/Documents/imam ahmad aziz prayogi/project/portofolio-v3/src/pages/Certificates.jsx
 import FooterComponent from "./components/FooterComponent"; 
 
 function App() {
